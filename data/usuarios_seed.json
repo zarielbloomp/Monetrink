@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Guilherme da Silva Oliveira",
-      "email": "guideoliveira369@gmail.com",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
