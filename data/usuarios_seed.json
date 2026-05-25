@@ -1,8 +1,8 @@
 {
   "usuarios": [
     {
-      "nome": "Miguel Conholato Nicoli",
-      "email": "miguel.c.nicoli@gmail.com",
+      "nome": "Administrador",
+      "email": "admin@sistema.com",
       "senha": "Admin@123",
       "perfil": "Administrador"
     }
